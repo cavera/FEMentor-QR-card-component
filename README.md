@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,7 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](https://raw.githubusercontent.com/cavera/FEMentor-QR-card-component/main/screenshot/qr_code_card.png)
-
 
 ### Links
 
@@ -43,3 +42,7 @@ I use the Screen Ruler app from [Microsoft PowerToys](https://github.com/microso
 - Website - [Github](https://github.com/cavera)
 - Frontend Mentor - [@cavera](https://www.frontendmentor.io/profile/cavera)
 - Twitter - [@cavera_de](https://twitter.com/cavera_de)
+
+## Acnowledgment
+
+Thanks to [@dreamCod3r](https://www.frontendmentor.io/profile/dreamCod3r) for the good feedback.
